@@ -1,0 +1,41 @@
+.container{
+    max-width: 930px;
+    padding: 0 20px;
+}
+.hug-pv-header{
+    background-color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 0 #efefef, 0 2px 2px #ececec;
+}
+.hug-pv-header .title{
+    margin: 15px 0;
+}
+.hug-pv-content{
+    padding-top: 10px;
+}
+.hug-pv-content .section{
+    position: relative;
+    min-width: 255px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 0;
+    line-height: 1;
+}
+.hug-pv-content .section .content{
+    padding: 20px;
+}
+
+.column-col_post_id,
+.column-col_post_view{
+    width: 10%;
+}
+.column-col_post_category{
+    width: 20%;
+}
+td.column-col_post_view{
+    text-align: right;
+}
